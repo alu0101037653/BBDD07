@@ -734,4 +734,7 @@ SQL> SELECT *
 
 15 rows selected.
 
-SQL> 
+SQL> SPOOL OFF
+SQL> EXIT
+Disconnected from Oracle Database 12c Enterprise Edition Release 12.2.0.1.0 - 64bit Production
+alu0101037653@280a17b13847:~$ 
